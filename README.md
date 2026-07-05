@@ -439,9 +439,7 @@ This project is licensed under the MIT License — see `LICENSE`.
 
 - Name: Haseeb Zahid
 - GitHub: https://github.com/Haseebzahid9
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-- Portfolio: https://your-portfolio.example.com
-- Email: youremail@example.com
+
 
 ---
 
